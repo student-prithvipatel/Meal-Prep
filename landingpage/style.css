@@ -25,7 +25,7 @@
   align-items: center;
   font-size: 3rem;
   text-align: center;
-  background: #444e56;
+  background: lightblue;
   transform: translateY(-50px);
 }
 
@@ -48,6 +48,6 @@
   align-items: center;
   font-size: 4rem;
   text-align: center;
-  background: #ffffff; /* hides video */
+  background: lightblue; /* hides video */
   color: black;
 }
